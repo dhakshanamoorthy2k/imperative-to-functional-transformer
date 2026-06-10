@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@monaco-editor/react": "^4.7.0",
+    "@tailwindcss/vite": "^4.3.0",
+    "@xyflow/react": "^12.10.2",
+    "lucide-react": "^1.16.0",
+    "tailwindcss": "^4.3.0"
+  }
+}
